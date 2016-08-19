@@ -111,7 +111,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - _post
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
