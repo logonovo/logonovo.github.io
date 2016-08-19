@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "zh-CN"
 title                    : "烂笔头"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Logonovo"
 description              : "An amazing website."
 url                      : "https://logonovo.github.io"
